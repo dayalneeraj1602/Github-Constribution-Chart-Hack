@@ -1,0 +1,26 @@
+{
+  "name": "newtest",
+  "version": "1.0.0",
+  "description": "testing git console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenbasyal/newTest.git"
+  },
+  "author": "Naveen Basyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenbasyal/newTest/issues"
+  },
+  "homepage": "https://github.com/naveenbasyal/newTest#readme",
+  "dependencies": {
+    "core-util-is": "^1.0.3",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.16.0"
+  }
+}
